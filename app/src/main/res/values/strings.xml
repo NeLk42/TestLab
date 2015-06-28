@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestLab</string>
+    <string name="top_left">Top Left!</string>
+    <string name="top_right">Top Right!</string>
+    <string name="below">Below!</string>
+    <string name="belowRL">Below RL!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnClickMe">I am Evil! :P</string>
+    <string name="btnNoText" />
+    <string name="hint">Cleanse me!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
